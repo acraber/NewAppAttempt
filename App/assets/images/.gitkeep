@@ -1,2 +1,5 @@
 // 3 add all these mf folders
 // 4 add the lint dependency in package.json then run yarn lint to see if there's any problems
+// I also ran expo install @react-navigation/native @react-navigation/stack
+// and expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+// also did yarn add date-fns
